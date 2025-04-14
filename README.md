@@ -7,14 +7,14 @@ Role: Dev Backend | Java, Spring Boot, C#, .NET | SQL Server, MySQL, PostgreSQL 
 Skills:
 
   - Software Development
-  - .NET Framework | .NET Core | Java Spring Boot
+  - .NET Framework | .NET Core | Java | Spring Boot
   - MS Server | MySql | Postgresql
   - Resolução de Problemas
   - Projetos Inovadores
 
 About: |
 
-    Sou desenvolvedor backend com experiência sólida em Java (Spring Boot) e C# (.NET), atuando na criação, manutenção e evolução de sistemas robustos e escaláveis. Tenho domínio em bancos de dados relacionais como SQL Server, MySQL e PostgreSQL, além de proficiência em     ferramentas de versionamento como Git, GitHub e GitLab, utilizando estratégias como Gitflow para organização de código.
+    Sou desenvolvedor backend com experiência em Java (Spring Boot) e C# (.NET), atuando na criação, manutenção e evolução de sistemas robustos e escaláveis. Tenho domínio em bancos de dados relacionais como SQL Server, MySQL e PostgreSQL, além de proficiência em     ferramentas de versionamento como Git, GitHub e GitLab, utilizando estratégias como Gitflow para organização de código.
     Com foco em performance e qualidade, participo ativamente em todas as etapas do desenvolvimento de software, desde a concepção até a entrega e suporte. Trabalho bem em equipes multidisciplinares, com vivência em metodologias ágeis como SCRUM e Kanban.
     Sempre em busca de aprendizado contínuo e novos desafios que me permitam crescer profissionalmente e contribuir com projetos de alto impacto.
 
