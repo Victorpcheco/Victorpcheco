@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4682B4&center=true&vCenter=true&width=440&lines=Olá%2C+me+chamo+Victor+Pacheco!+;Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=4682B4&center=true&vCenter=true&width=440&lines=Olá%2C+me+chamo+Victor!+;Bem+vindo+ao+meu+perfil!)](https://git.io/typing-svg)
 
 ```yaml
 Nome: Victor Pacheco
